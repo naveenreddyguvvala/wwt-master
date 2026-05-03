@@ -248,19 +248,6 @@ curl http://localhost:5000
 
 ---
 
-## 16. Final Status
-
-| Component           | Status        |
-| ------------------- | ------------- |
-| Docker Installation | ✅             |
-| Image Build         | ✅             |
-| Container Run       | ✅             |
-| Port Mapping        | ✅             |
-| Application Running | ✅             |
-
-
----
-
 ## 17. Conclusion
 
 The deployment is successful from Docker and infrastructure perspective.
